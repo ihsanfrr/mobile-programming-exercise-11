@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+        <EditText
+            android:id="@+id/title"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Insert Title"
+            tools:ignore="Autofill,HardcodedText,TextFields" />
+        <EditText
+            android:id="@+id/desc"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Insert Description"
+            tools:ignore="Autofill,HardcodedText,TextFields" />
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#E0E0E0"
+            android:contentDescription="Image Selected"
+            tools:ignore="HardcodedText" />
+        <Button
+            android:id="@+id/btnChooseImage"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Pilih Gambar"/>
+        <Button
+            android:id="@+id/btnAdd"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Simpan"/>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

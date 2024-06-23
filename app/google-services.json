@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "758326185842",
+    "project_id": "research-ed1d8",
+    "storage_bucket": "research-ed1d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758326185842:android:b8621e5c6c0e15f78817eb",
+        "android_client_info": {
+          "package_name": "com.ihsanfrr.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758326185842-2mi1n7lui3hpglfirq3g3hqj0g0vk3jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5tcBaefpbb-b51pxzGVoYSXQa6kmx_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758326185842-2mi1n7lui3hpglfirq3g3hqj0g0vk3jc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758326185842-ebnlfard8cq8jtrtjh15i37jak1kkjf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihsanfrr.research"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758326185842:android:4f2d9749d8f303d78817eb",
+        "android_client_info": {
+          "package_name": "com.ihsanfrr.research"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758326185842-2mi1n7lui3hpglfirq3g3hqj0g0vk3jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5tcBaefpbb-b51pxzGVoYSXQa6kmx_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758326185842-2mi1n7lui3hpglfirq3g3hqj0g0vk3jc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758326185842-ebnlfard8cq8jtrtjh15i37jak1kkjf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ihsanfrr.research"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
